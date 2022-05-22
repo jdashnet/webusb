@@ -20,7 +20,7 @@
           },
           "url": "https://github.com/jdashnet/webusb/webusb-1.0.0.tar.gz",
           "archiveFileName": "webusb-1.0.0.tar.gz",
-          "checksum": "SHA256: 5da64c4fa996466ad9043dd6ca7ee89ebf5e1dfe5ab53b99b202a68bc93a0125",
+          "checksum": "SHA256:5da64c4fa996466ad9043dd6ca7ee89ebf5e1dfe5ab53b99b202a68bc93a0125",
           "size": "401191",
           "boards": [
             {"name": "Leonardo (WebUSB)"},{"name": "Micro (WebUSB)"},{"name": "32u4 (WebUSB)"}
