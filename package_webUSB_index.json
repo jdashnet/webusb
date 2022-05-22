@@ -4,7 +4,7 @@
     {
       "name": "WebUSB",
       "maintainer": "reillyeon/modified by jdashnet.",
-      "websiteURL": "https://github.com/jdashnet/webUSB",
+      "websiteURL": "https://github.com/jdashnet/webusb",
       "email": "",
       "help": {
         "online": ""
@@ -18,7 +18,7 @@
           "help": {
             "online": ""
           },
-          "url": "https://github.com/jdashnet/webusb/raw/main/webUSB-arduino-1.0.0.tar.gz",
+          "url": "https://github.com/jdashnet/webusb/webusb-1.0.0.tar.gz",
           "archiveFileName": "webusb-1.0.0.tar.gz",
           "checksum": "SHA256: 5da64c4fa996466ad9043dd6ca7ee89ebf5e1dfe5ab53b99b202a68bc93a0125",
           "size": "401191",
