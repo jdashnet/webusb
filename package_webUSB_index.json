@@ -18,12 +18,12 @@
           "help": {
             "online": ""
           },
-          "url": "https://github.com/jdashnet/webusb/raw/main/webusb-1.0.0.tar.gz",
-          "archiveFileName": "webusb-1.0.0.tar.gz",
+          "url": "https://github.com/jdashnet/webusb/raw/main/webusb-1.0.1.tar.gz",
+          "archiveFileName": "webusb-1.0.1.tar.gz",
           "checksum": "SHA1:9b864d757d484b3b3dd131ea09192988001f1766",
           "size": "405972",
           "boards": [
-            {"name": "Leonardo (WebUSB)"},{"name": "Micro (WebUSB)"},{"name": "32u4 (WebUSB)"}
+            {"name": "Leonardo (WebUSB)"},{"name": "Micro (WebUSB)"},{"name": "Adafruit Feather 32u4"}
           ],
           "toolsDependencies": []
         }
